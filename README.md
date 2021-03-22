@@ -10,6 +10,8 @@ Brazilian developer, jazz lover and saxophone player. <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandro&&langs_count=8&layout=compact&theme=radical)](https://github.com/HeberLeandro/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=radical)](https://github.com/HeberLeandro/Contacts_Manager)
+
 
 - 💪 Working on a lot of ELK Stack at [STI (ufpe)](https://www.ufpe.br/sti);
 - 🧠 Learning about Django and Aspect Oriented Programming;
@@ -21,10 +23,6 @@ Brazilian developer, jazz lover and saxophone player. <br>
 <p>
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=radical)](https://github.com/HeberLeandro/Contacts_Manager)
-
 
 <!--
 **HeberLeandro/HeberLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
