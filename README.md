@@ -19,9 +19,9 @@ Brazilian developer, jazz lover and saxophone player. <br>
 
 **git commit -m "here we go 🚀"**
 <p>
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats);
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
 </p>
-<br>
+<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=radical)](https://github.com/HeberLeandro/Contacts_Manager)
 
 
