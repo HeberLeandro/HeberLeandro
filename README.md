@@ -7,9 +7,9 @@ Brazilian developer, jazz lover and saxophone player. <br>
 [![image](https://img.shields.io/badge/Instagram-E4405F)](https://www.instagram.com/heberleandroluz/)
 
 [
-![Heber Github stats](https://github-readme-stats.vercel.app/api?username=HeberLeandro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Heber Github stats](https://github-readme-stats.vercel.app/api?username=HeberLeandro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandro&layout=compact&theme=dracula&hide=html,css)](https://github.com/HeberLeandro/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandrot&theme=dracula&hide=html,css)](https://github.com/HeberLeandro/)
 
 
 - 💪 Working on a lot of ELK Stack at [STI (ufpe)](https://www.ufpe.br/sti);
