@@ -7,7 +7,7 @@ Brazilian developer, jazz lover and saxophone player. <br>
 [![image](https://img.shields.io/badge/Instagram-E4405F)](https://www.instagram.com/heberleandroluz/)
 
 [
-![Heber Github stats](https://github-readme-stats.vercel.app/api?username=HeberLeandro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Heber Github stats](https://github-readme-stats.vercel.app/api?username=HeberLeandro&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandro&&langs_count=8&layout=compact&theme=dracula)](https://github.com/HeberLeandro/)
 
