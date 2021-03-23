@@ -8,7 +8,7 @@ Brazilian developer, jazz lover and saxophone player. <br>
 
 [![Heber Github stats](https://github-readme-stats.vercel.app/api?username=HeberLeandro&layout=compact&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/HeberLeandro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandro&&langs_count=8&layout=compact&theme=radical)](https://github.com/HeberLeandro/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandro&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/HeberLeandro/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=radical)](https://github.com/HeberLeandro/Contacts_Manager)
 
