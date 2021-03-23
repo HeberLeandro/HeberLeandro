@@ -10,7 +10,7 @@ Brazilian developer, jazz lover and saxophone player. <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberLeandro&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/HeberLeandro/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=radical)](https://github.com/HeberLeandro/Contacts_Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=material-palenight)](https://github.com/HeberLeandro/Contacts_Manager)
 
 
 - 💪 Working on a lot of ELK Stack at [STI (ufpe)](https://www.ufpe.br/sti);
