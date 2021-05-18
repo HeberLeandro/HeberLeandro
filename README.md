@@ -14,7 +14,7 @@ Brazilian developer, jazz lover and saxophone player. <br>
 
 
 - 💪 Working on a lot of ELK Stack at [STI (ufpe)](https://www.ufpe.br/sti);
-- 🧠 Learning about Django and Aspect Oriented Programming;
+- 🧠 Learning about Spring Boot and Back-End Programming;
 - 🗣 Let’s talk about Javascript, Java and Python, shall we? 
 
 
