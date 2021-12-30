@@ -13,7 +13,7 @@ Brazilian developer, jazz lover and saxophone player. <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeberLeandro&repo=Contacts_Manager&theme=material-palenight)](https://github.com/HeberLeandro/Contacts_Manager)
 
 
-- 💪 Working on a lot of Java at [Pitang](https://pitang.com/);
+<!--- 💪 Working on a lot of Java at []();-->
 - 🧠 Learning about Spring Boot and Back-End Programming;
 - 🗣 Let’s talk about Javascript, Java and Python, shall we? 
 
