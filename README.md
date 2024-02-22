@@ -1,5 +1,5 @@
-# Heber Leando 🎷!
-Brazilian developer, jazz lover and saxophone player. <br>
+# Heber Leando!
+Brazilian Java developer, and saxophone player 🎷. <br>
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/heberleandroluz/)
